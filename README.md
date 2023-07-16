@@ -17,7 +17,7 @@
 
 
 
-*  finally this project 
+*  Finally this project 
 Implements nextjs authentication and you will learn how to protect routes how to
 create a new user and how to log in with user credentials and social media
 accounts after that we will be able to see this protected dashboard that shows the user
