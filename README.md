@@ -14,3 +14,15 @@
 * The Contact page serves as a convenient channel for visitors to reach out to you, facilitating communication and potential collaborations.
 
 * The Dashboard page provides a secure and efficient user management system, enabling visitors to create accounts, log in, and access personalized features. The integration of Google authentication adds an extra layer of convenience and security to the login process.
+
+
+
+*  finally this project 
+Implements nextjs authentication and you will learn how to protect routes how to
+create a new user and how to log in with user credentials and social media
+accounts after that we will be able to see this protected dashboard that shows the user
+posts and we will be able to add any posts
+without refreshing the page and also you can delete your posts and it revalidates
+this data immediately using next.js SWR mutation and server side and client-side
+rendering styling data fatching creating an API and implementing CRUD
+operations SEO improvements next off user sessions and more
